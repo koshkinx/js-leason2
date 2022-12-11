@@ -82,7 +82,7 @@
 // let first = parseFloat(prompt("your first number", "write"));
 // let second = parseFloat(prompt("your second number", "write"));
 // let third = parseFloat(prompt("your third number", "write"));
-// let result = (first + second + third) / 2;
+// let result = (first + second + third) / 3;
 // console.log(result)
 
 // 8.Спитати в користувача вік, далі використовуючи
